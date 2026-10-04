@@ -2,3 +2,4 @@ Rama resolusi
 1. konsisten membuat konten 2x seminggu
 2.membuat platform untuk pengelolaan video
 3.membuat forum diskusi
+4. membuat konfirmasi
